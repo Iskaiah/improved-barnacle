@@ -7,3 +7,15 @@ This repository is based on my practice using react-native real estate applicati
 3. Reset the project ``npm run reset-project``
 
 ### Setting up routes
+#### File based routing
+File structure
+* app
+  * (root)
+    *  (tabs)
+        * explore.tsx
+        * index.tsx
+        * profile.tsx        
+    *  properties
+        * [id].tsx
+  
+   
