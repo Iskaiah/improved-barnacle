@@ -10,6 +10,8 @@ This repository is based on my practice using react-native real estate applicati
 #### File based routing
 File structure
 * app
+  * _layout.tsx
+  * sign-in.tsx
   * (root)
     *  (tabs)
         * explore.tsx
