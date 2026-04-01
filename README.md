@@ -25,5 +25,6 @@ File structure
 follow this Link
 https://www.nativewind.dev/docs/getting-started/installation
 
-  
+## Setup Fonts and Assets
+
    
