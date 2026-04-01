@@ -22,11 +22,8 @@ File structure
 
 ## Setting up theme using NativeWind using expo
 ### Installation with Expo
-1. Install Nativewind
-You will need to install nativewind and its peer dependencies tailwindcss, react-native-reanimated and react-native-safe-area-context.   
- 
-  ``` npm install nativewind react-native-reanimated react-native-safe-area-context ```
-  ``` npm install --dev tailwindcss@^3.4.17 prettier-plugin-tailwindcss@^0.5.11 babel-preset-expo ```
+follow this Link
+https://www.nativewind.dev/docs/getting-started/installation
 
   
    
